@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GoldCoin
+  - SilverCoin
+  - EnemySpawn
+  - DoorSwitch
+  - BindButton
+  - SkipMenuHandler
+  - GoldCoinSpawn
+  - SilverCoinSpawn
+  - CopperCoinSpawn
+  - Door
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Rocket
+  - Enemy
+  - Tile
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundTiles
+    uniqueID: 2534739507
+    locked: 0
+  - name: Player
+    uniqueID: 4280834557
+    locked: 0

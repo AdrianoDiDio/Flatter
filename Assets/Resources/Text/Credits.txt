@@ -1,0 +1,8 @@
+A game by Adriano Di Dio.
+Assets:
+Game:pzUH at GameArt2D.com
+Fonts: KenVector at Kenney.nl
+Sounds:Juhani Junkala
+UI: UI pack by Kenney Vleugels
+BrawlBot: graphicsdojo.com
+COPYRIGHT © 2018 Adriano Di Dio.
